@@ -1,0 +1,8 @@
+sentence = input("gimme a sentence! ")
+print("these are some weird things we can do with sentences with code")
+Wsentence = sentence.upper()
+print("All Caps, baby!:\n", Wsentence)
+Wsentence = sentence.count('a')
+print(f"There are {Wsentence} letter a's in your sentence!")
+Wsentence = sentence.title()
+print("Your sentence is now a name!:\n", Wsentence)
