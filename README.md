@@ -14,6 +14,7 @@ It’s partly for my own revision, partly to flex a little — and yes, partly t
 ## Notes
 This is **not** meant to be a perfect textbook or a model of professional software engineering.  
 It’s a learning project, a memory palace, and maybe a conversation starter.  
+I'll also keep working on it. By all means this is not complete.
 
 Kind regards,  
 *Me — the computing guy at my school with too much free time.*
