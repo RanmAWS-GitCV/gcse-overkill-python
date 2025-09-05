@@ -1,0 +1,13 @@
+import random
+import time
+try:
+    sides = int(input("\nplease input number of sides to the dice roller! "))
+    time.sleep(0.75)
+    print(f"\nyou chose a {sides} sided die!")
+    print("dice rolling...")
+    roll = random.randint(1, sides)
+    time.sleep(1.5)
+    print("you rolled a:", roll)
+except Exception:
+    print("hey, no pen testers accepted here..")
+    
